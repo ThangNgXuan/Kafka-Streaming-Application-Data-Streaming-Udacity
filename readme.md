@@ -1,2 +1,2 @@
 # Project Workflow
-![image](img\diagram.png)
+<img src="img/diagram.png" class="img-responsive" alt=""> </div>
